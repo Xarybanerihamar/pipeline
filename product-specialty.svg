@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 510" role="img" aria-label="product specialty"><defs>
+<linearGradient id="bg" x2=".95" y2="1"><stop stop-color="#E3EEF0"/><stop offset="1" stop-color="#C3D7D9"/></linearGradient>
+<linearGradient id="metal" x1="0" x2="1"><stop stop-color="#8A9CAB"/><stop offset=".23" stop-color="#F4F8FA"/><stop offset=".58" stop-color="#A9BDC9"/><stop offset="1" stop-color="#69808F"/></linearGradient>
+<linearGradient id="glass" x1="0" x2="1"><stop stop-color="#BCD8E0" stop-opacity=".78"/><stop offset=".3" stop-color="#F8FCFE" stop-opacity=".9"/><stop offset=".62" stop-color="#B6D4DE" stop-opacity=".55"/><stop offset="1" stop-color="#7FAEBB" stop-opacity=".8"/></linearGradient>
+<linearGradient id="blue" x1="0" x2="1"><stop stop-color="#0D3F79"/><stop offset=".25" stop-color="#247ABF"/><stop offset=".55" stop-color="#1769AF"/><stop offset="1" stop-color="#0A3E7D"/></linearGradient>
+<linearGradient id="white" x1="0" x2="1"><stop stop-color="#BECED5"/><stop offset=".28" stop-color="#FAFCFD"/><stop offset=".8" stop-color="#E0EAF0"/><stop offset="1" stop-color="#A9BCC8"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+</defs><rect width="680" height="510" fill="url(#bg)"/><path d="M0 405H680V510H0Z" fill="#fff" opacity=".22"/>
+<ellipse cx="345" cy="420" rx="214" ry="34" fill="#20334b" opacity=".12" filter="url(#blur)"/>
+<g><rect x="122" y="139" width="348" height="273" rx="17" fill="url(#white)" stroke="#A0B6C1" stroke-width="4"/><rect x="132" y="148" width="329" height="253" rx="13" fill="url(#glass)" opacity=".75"/><g stroke="#768F9A" stroke-width="9" fill="none"><path d="M125 193H467M125 257H467M125 324H467M125 388H467M183 141V409M254 141V409M327 141V409M399 141V409"/></g><rect x="205" y="115" width="88" height="29" rx="10" fill="#BACDD2"/><rect x="226" y="104" width="45" height="16" rx="5" fill="#6D9AAF"/><rect x="127" y="411" width="341" height="18" rx="4" fill="#344F57"/><rect x="153" y="431" width="59" height="25" fill="#A98158"/><rect x="372" y="431" width="59" height="25" fill="#A98158"/></g><g><rect x="499" y="309" width="95" height="111" rx="14" fill="url(#blue)"/><ellipse cx="546" cy="309" rx="47" ry="12" fill="#3582B7"/><rect x="497" y="396" width="99" height="22" rx="6" fill="#164B7F"/></g>
+</svg>

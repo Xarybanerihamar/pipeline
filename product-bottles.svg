@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 510" role="img" aria-label="product bottles"><defs>
+<linearGradient id="bg" x2=".95" y2="1"><stop stop-color="#EDF4F1"/><stop offset="1" stop-color="#DDE9E5"/></linearGradient>
+<linearGradient id="metal" x1="0" x2="1"><stop stop-color="#8A9CAB"/><stop offset=".23" stop-color="#F4F8FA"/><stop offset=".58" stop-color="#A9BDC9"/><stop offset="1" stop-color="#69808F"/></linearGradient>
+<linearGradient id="glass" x1="0" x2="1"><stop stop-color="#BCD8E0" stop-opacity=".78"/><stop offset=".3" stop-color="#F8FCFE" stop-opacity=".9"/><stop offset=".62" stop-color="#B6D4DE" stop-opacity=".55"/><stop offset="1" stop-color="#7FAEBB" stop-opacity=".8"/></linearGradient>
+<linearGradient id="blue" x1="0" x2="1"><stop stop-color="#0D3F79"/><stop offset=".25" stop-color="#247ABF"/><stop offset=".55" stop-color="#1769AF"/><stop offset="1" stop-color="#0A3E7D"/></linearGradient>
+<linearGradient id="white" x1="0" x2="1"><stop stop-color="#BECED5"/><stop offset=".28" stop-color="#FAFCFD"/><stop offset=".8" stop-color="#E0EAF0"/><stop offset="1" stop-color="#A9BCC8"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+</defs><rect width="680" height="510" fill="url(#bg)"/><path d="M0 405H680V510H0Z" fill="#fff" opacity=".22"/>
+<ellipse cx="345" cy="420" rx="214" ry="34" fill="#20334b" opacity=".12" filter="url(#blur)"/>
+<g><rect x="120" y="170" width="140" height="248" rx="25" fill="url(#glass)" stroke="#96B4BE" stroke-width="3"/><rect x="153" y="126" width="74" height="64" rx="7" fill="url(#glass)" stroke="#96B4BE" stroke-width="3"/><rect x="145" y="121" width="91" height="26" rx="6" fill="#D1DFE5"/><path d="M138 225v151" stroke="#fff" stroke-width="13" stroke-linecap="round" opacity=".7"/><rect x="148" y="295" width="83" height="77" rx="4" fill="#f4f8f7" opacity=".84"/><path d="M169 329h40M169 343h27" stroke="#94B3B5" stroke-width="5" stroke-linecap="round"/></g>
+<g><rect x="280" y="125" width="132" height="295" rx="20" fill="url(#white)" stroke="#B2C6CB" stroke-width="3"/><rect x="318" y="97" width="56" height="43" rx="5" fill="#DFE8EA" stroke="#9DB3BA" stroke-width="2"/><rect x="301" y="224" width="90" height="112" rx="4" fill="#F9FBFA"/><path d="M319 274h52M327 288h36" stroke="#A2B6B8" stroke-width="5" stroke-linecap="round"/><path d="M299 167v38" stroke="#fff" opacity=".65" stroke-width="9"/></g>
+<g><rect x="437" y="234" width="120" height="186" rx="27" fill="#8DAF9E" stroke="#658E7A" stroke-width="3"/><rect x="455" y="219" width="84" height="34" rx="6" fill="#5D8872"/><rect x="455" y="312" width="84" height="55" rx="2" fill="#C9D9CD"/><path d="M475 339h44" stroke="#93B0A0" stroke-width="5"/></g>
+</svg>
